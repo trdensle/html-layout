@@ -1,0 +1,27 @@
+html, body {
+
+	height: 100%;
+	width: 100%;
+	background: #d8d8d8
+
+}
+
+.topBar {
+	height: 100px;
+	width: 100%;
+	background: #444
+}
+
+.middle {
+	height: 600px;
+	width: 800px;
+	background-color: white;
+	margin: 0% 10% 0% 10%;
+}
+
+.bottomBar {
+	height: 100px;
+	width: 800px;
+	background-color: #222;
+	margin: 0% 10% 0% 10%
+}
